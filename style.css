@@ -1,0 +1,51 @@
+h1,
+p {
+    font-family: Arial;
+}
+
+h1 {
+    color: aqua;
+}
+
+h1 {
+    text-align: center;
+}
+
+body {
+    font-family: sans-serif;
+}
+
+div {
+    width: 80%;
+    margin-right: auto;
+    margin-left: auto;
+    border: width 1px;
+    border-style: solid;
+    border-color: royalblue;
+    border-radius: 10px;
+}
+
+p.red {
+    color: red;
+}
+
+p.yellow {
+    background-color: yellow;
+}
+
+p.purple {
+    background-color: purple;
+}
+
+img {
+    width: 300px;
+
+}
+
+img {
+    float: left;
+}
+
+img {
+    margin: 25px 50px 75px 100px;
+}
